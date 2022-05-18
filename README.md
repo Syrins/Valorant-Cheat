@@ -1,4 +1,4 @@
-<h3 align="center">You can contact via discord to purchase.</h3>
+<h3 align="center">You can contact via discord to purchase</h3>
 
 - 📫 How to reach me **myusa#0704**
 
